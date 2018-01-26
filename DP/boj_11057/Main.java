@@ -1,3 +1,5 @@
+package boj_11057;
+
 import java.util.*;
 import java.io.*;
 

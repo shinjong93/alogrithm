@@ -1,3 +1,5 @@
+package boj_9465;
+
 import java.util.*;
 import java.io.*;
 
